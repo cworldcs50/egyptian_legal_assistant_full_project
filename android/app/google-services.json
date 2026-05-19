@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "713206219196",
+    "project_id": "egyptian-legal-assistant",
+    "storage_bucket": "egyptian-legal-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713206219196:android:a1ee7ca12db389aff8ebb9",
+        "android_client_info": {
+          "package_name": "com.example.egyptian_legal_assistant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713206219196-e9crisurjkiujq7s2l9f6kcvdnjc4a88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egyptian_legal_assistant_app",
+            "certificate_hash": "d2265f5f83a7dbece2ce178d464f38d1d5388f3b"
+          }
+        },
+        {
+          "client_id": "713206219196-1d8n36qrgjukjur821si4dtctmd80s6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRaWq5XNO0n2if5r4sp2MDl8XEdw3ssU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713206219196-1d8n36qrgjukjur821si4dtctmd80s6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713206219196-mpm67ugcvuohn5e7c0blpug0okfuj6i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.egyptianLegalAssistantApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

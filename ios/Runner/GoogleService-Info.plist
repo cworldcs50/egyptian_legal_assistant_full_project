@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>713206219196-mpm67ugcvuohn5e7c0blpug0okfuj6i8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.713206219196-mpm67ugcvuohn5e7c0blpug0okfuj6i8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>713206219196-e9crisurjkiujq7s2l9f6kcvdnjc4a88.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDIAZED0NppG_RmOqjCbLJgw1GYE7pr_k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>713206219196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.egyptianLegalAssistantApp</string>
+	<key>PROJECT_ID</key>
+	<string>egyptian-legal-assistant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>egyptian-legal-assistant.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:713206219196:ios:f9189380053ce6caf8ebb9</string>
+</dict>
+</plist>
